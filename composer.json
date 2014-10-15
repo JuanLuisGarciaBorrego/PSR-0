@@ -1,0 +1,14 @@
+{
+    "name": "PSR-O",
+    "description": "Analisis de PSR-0",
+    "authors": [
+        {
+            "name" : "Juan Luis García Borrego",
+            "email": "garciaborrego.juanlu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"VendorName\\" : "src/"}
+    }
+}
+
