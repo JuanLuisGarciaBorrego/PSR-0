@@ -9,6 +9,8 @@
     ],
     "autoload": {
         "psr-0": {"VendorName\\" : "src/"}
+    },
+    "require": {
+        "nesbot/carbon": "^1.21"
     }
 }
-

@@ -8,9 +8,10 @@ require __DIR__."/../vendor/autoload.php";
 
 use VendorName\Application;
 use VendorName\FirstName;
+use Carbon\Carbon;
 
 $RandomName = new FirstName();
 
 $app = new Application($RandomName->getName());
 
-printf($app->greeting()."\n\n");
+printf('Hi '.$app->greeting().". Today is ".Carbon::now()->day."\n\n");
