@@ -17,7 +17,6 @@ class Application
 
     public function  greeting()
     {
-        return "Hi ".$this->name."!";
+        return $this->name;
     }
 }
-

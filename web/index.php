@@ -14,4 +14,4 @@ $RandomName = new FirstName();
 
 $app = new Application($RandomName->getName());
 
-printf('Hi '.$app->greeting().". Today is ".Carbon::now()->day."\n\n");
+printf("\n\nHi ".$app->greeting()."!!\nToday is ".Carbon::now()->day."\n\n");
