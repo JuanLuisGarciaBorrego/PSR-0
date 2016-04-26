@@ -12,6 +12,6 @@ Enlaces de interés:
   - [PHP-FIG](http://www.php-fig.org/)  
   - [Composer](https://getcomposer.org/)
   - [PHP Autoload](http://php.net/manual/es/language.oop5.autoload.php)
-  - 
+  - [Manual Composer](http://librosweb.es/libro/composer/)
 
 Autor: [Juan Luis García Borrego](https://twitter.com/JuanluGarciaB)  
