@@ -1,4 +1,4 @@
-# El antes y el ahora para un desarollador PHP 
+# El antes y el ahora para un desarrollador PHP 
 
 Puesta en práctica formativa de un simple proyecto PHP para analizar el gran paso que ha marcado composer en el día a día. 
 
